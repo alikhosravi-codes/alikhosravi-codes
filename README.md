@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cyber+Security;Backend+Developer;Software+Engineer" alt="Typing SVG">
+
+<br>
+
+<img src="./logo.png" width="180" alt="RootBit">
+
+</div>
+
 # Ali (RootBit) 👨‍💻
 
 *«سیستم را بفهم، بساز، امنیتش را جدی بگیر.»*
@@ -12,7 +22,7 @@
 
 ## 🧠 درباره من
 
-من علی هستم و **RootBit** هویت من در دنیای برنامه‌نویسی و امنیت است.
+من علی هستم و **RootBit** هویت من در دنیای تکنولوژی است.
 
 تمرکز اصلی من روی **مهندسی نرم‌افزار، توسعه بک‌اند و امنیت وب** است؛ جایی که ساخت سیستم‌های قابل اعتماد، شناخت معماری نرم‌افزار و بررسی نقاط ضعف آن، بخش‌های مهم یک مسیر هستند.
 
@@ -38,7 +48,9 @@ Python • PHP • JavaScript • Dart • HTML • CSS • Flutter
 
 Linux • Git • GitHub • VS Code
 
-**حوزه‌های تمرکز**
+---
+
+## 🎯 حوزه‌های تمرکز
 
 * ⚙️ Software Engineering
 * ⚙️ Backend Development
