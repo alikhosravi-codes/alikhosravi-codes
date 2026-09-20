@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cyber+Security;Backend+Developer;Software+Engineer" alt="Typing SVG">
 
-<br>
+<br><br>
 
 <img src="./logo.png" width="180" alt="RootBit">
 
-</div>
+<br>
 
 # Ali (RootBit) 👨‍💻
 
@@ -17,6 +17,8 @@
 *ساخت نرم‌افزارهای قابل اعتماد، شناخت معماری سیستم‌ها و توجه به امنیت در تمام مراحل توسعه.*
 
 🔐 ذهنیت امنیتی • ⚙️ Backend Development • 🌐 Web Security • 🧠 یادگیری مداوم
+
+</div>
 
 ---
 
