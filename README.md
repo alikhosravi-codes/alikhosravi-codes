@@ -4,112 +4,119 @@
 
 # RootBit 👨‍💻
 
-### Backend Developer • Cyber Security
+### توسعه‌دهنده Backend • امنیت سایبری
 
-*Build systems. Understand vulnerabilities. Secure the web.*
+*ساختن، شناختن، شکستن و امن‌تر ساختن.*
 
-🔐 Security Mindset • ⚙️ Backend Development • 🧠 Continuous Learning
+🔐 ذهنیت امنیتی • ⚙️ توسعه Backend • 🧠 یادگیری مداوم
 
 </div>
 
 ---
 
-## 🧠 About RootBit
+## 🧠 درباره RootBit
 
-RootBit is my personal identity for exploring **Backend Development** and **Cyber Security**.
+**RootBit** هویت شخصی من برای فعالیت و یادگیری در حوزه‌های **Backend Development** و **Cyber Security** است.
 
-I enjoy understanding how software and web applications work, building backend systems, studying vulnerabilities, and learning how to make applications more secure.
+من به ساخت سیستم‌های نرم‌افزاری، شناخت نحوه کارکرد وب‌اپلیکیشن‌ها، بررسی آسیب‌پذیری‌ها و یادگیری روش‌های ساخت نرم‌افزارهای امن علاقه‌مندم.
 
-* 💻 Building backend applications and APIs
-* 🔐 Exploring web security and vulnerability research
-* 🐧 Working with Linux and security tools
-* ⚙️ Learning software engineering and clean code
-* 🚀 Building projects to turn knowledge into practical experience
+* 💻 ساخت برنامه‌ها و سیستم‌های Backend
+* 🔐 یادگیری امنیت سایبری و Web Security
+* 🌐 بررسی آسیب‌پذیری‌های وب‌اپلیکیشن‌ها
+* 🐧 کار با Linux و ابزارهای امنیتی
+* ⚙️ یادگیری مهندسی نرم‌افزار و Clean Code
+* 🚀 تبدیل آموخته‌ها به پروژه‌های واقعی
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ مهارت‌ها و ابزارها
 
-### 💻 Development
+### 💻 توسعه نرم‌افزار
 
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python\&logoColor=00FF88)
 ![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge\&logo=php\&logoColor=00FF88)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge\&logo=html5\&logoColor=00FF88)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge\&logo=css3\&logoColor=00FF88)
 
-### 🐧 Environment & Tools
+### 🐧 محیط و ابزارها
 
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge\&logo=linux\&logoColor=00FF88)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge\&logo=git\&logoColor=00FF88)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge\&logo=github\&logoColor=00FF88)
 
-### 🔐 Security
+### 🔐 امنیت
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0A0A0A?style=for-the-badge\&logo=burpsuite\&logoColor=00FF88)
 ![OWASP](https://img.shields.io/badge/OWASP-0A0A0A?style=for-the-badge\&logo=owasp\&logoColor=00FF88)
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 حوزه‌های تمرکز
 
-### ⚙️ Backend Development
+### ⚙️ توسعه Backend
 
-Designing and building backend systems, APIs and server-side applications with a focus on clean structure, reliability and security.
+یادگیری و ساخت سیستم‌های Backend، APIها و برنامه‌های Server-Side با تمرکز روی ساختار مناسب، امنیت و قابلیت توسعه.
 
-### 🔐 Cyber Security
+### 🔐 امنیت سایبری
 
-Learning web application security, vulnerability research, reconnaissance and defensive security practices through legal labs and controlled environments.
+یادگیری مفاهیم امنیت سایبری، Web Security، بررسی آسیب‌پذیری‌ها، Reconnaissance و روش‌های دفاعی.
 
-### 🌐 Web Security
+### 🌐 امنیت وب
 
-Understanding how web applications work and how vulnerabilities can affect authentication, authorization, input handling and application logic.
+شناخت نحوه عملکرد Web Applicationها و بررسی مفاهیمی مانند:
 
-### 🧩 Secure Software
+* Authentication
+* Authorization
+* Input Validation
+* Session Security
+* Application Logic
 
-Learning to think about security while designing and developing software — not only after something goes wrong.
+### 🛡️ نرم‌افزار امن
+
+یادگیری امنیت از مرحله طراحی و توسعه، نه فقط زمانی که یک آسیب‌پذیری ایجاد شده است.
 
 ---
 
-## 📚 Currently Learning
+## 📚 در حال یادگیری
 
 ```text
-Backend Development     ███████████████░░░  Building
-Cyber Security          █████████████░░░░░  Learning
-Web Security             █████████████░░░░░  Learning
-Linux                    ████████████████░░  Building
-Git & GitHub             ██████████████████  Building
-Software Architecture    ███████████░░░░░░░  Learning
+Backend Development     ███████████████░░░  در حال ساخت
+Cyber Security          █████████████░░░░░  در حال یادگیری
+Web Security            █████████████░░░░░  در حال یادگیری
+Linux                   ████████████████░░  در حال یادگیری
+Git & GitHub             ██████████████████  در حال استفاده
+Software Architecture   ███████████░░░░░░░  در حال یادگیری
 ```
 
 ---
 
-## 🔎 Security Mindset
+## 🔎 ذهنیت امنیتی
 
-> **Understand the system.
-> Find the weakness.
-> Build it better.**
+> **سیستم را بشناس.
+> ضعف را پیدا کن.
+> بهترش کن.**
 
-My cybersecurity journey focuses on understanding vulnerabilities, application behavior and security concepts through **legal and controlled environments**.
-
----
-
-## 🚀 What I'm Building
-
-My GitHub will gradually become a collection of practical projects around:
-
-* ⚙️ Backend applications
-* 🌐 Web applications
-* 🔌 APIs
-* 🔐 Security labs
-* 🧪 Vulnerability research projects
-* 🛠️ Security & developer tools
-* 📚 Learning projects
-
-More projects are coming.
+مسیر یادگیری من در Cyber Security بر شناخت نحوه عملکرد سیستم‌ها، درک آسیب‌پذیری‌ها و تمرین در محیط‌های **قانونی و کنترل‌شده** تمرکز دارد.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 پروژه‌هایی که می‌سازم
+
+در این GitHub به‌مرور پروژه‌هایی در این حوزه‌ها قرار خواهند گرفت:
+
+* ⚙️ پروژه‌های Backend
+* 🌐 Web Application
+* 🔌 API
+* 🔐 آزمایشگاه‌های امنیتی
+* 🧪 پروژه‌های آموزشی Vulnerability Research
+* 🛠️ ابزارهای توسعه و امنیت
+* 📚 پروژه‌های یادگیری
+
+**این مسیر تازه شروع شده است. 🚀**
+
+---
+
+## 📊 آمار GitHub
 
 <div align="center">
 
@@ -121,7 +128,7 @@ More projects are coming.
 
 ---
 
-## 🐍 Contribution
+## 🐍 فعالیت‌های GitHub
 
 <div align="center">
 
@@ -131,7 +138,7 @@ More projects are coming.
 
 ---
 
-## 📬 Connect With RootBit
+## 📬 ارتباط با RootBit
 
 <div align="center">
 
@@ -147,6 +154,6 @@ More projects are coming.
 
 ### `root@rootbit:~$`
 
-**Learn • Build • Break • Secure**
+**یاد بگیر • بساز • بررسی کن • امن کن**
 
 </div>
