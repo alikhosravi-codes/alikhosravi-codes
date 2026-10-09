@@ -44,7 +44,7 @@
 
 **زبان‌ها و فناوری‌ها**
 
-Python • PHP • JavaScript • Dart • HTML • CSS • Flutter
+Python • PHP • JavaScript • Dart • HTML • CSS • Flutter • Kotlin • C
 
 **توسعه و محیط کار**
 
@@ -62,8 +62,7 @@ Linux • Git • GitHub • VS Code
 * 🛡️ Secure Software Development
 
 ---
-
-## 🎯 مسیر RootBit
+## 🎯  مسیر Mr.Bit
 
 **Learn → Build → Analyze → Secure**
 
